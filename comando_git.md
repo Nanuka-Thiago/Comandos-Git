@@ -19,6 +19,7 @@
 #### git remote 
 
  - git remote add origin https://github.com.br/usuario/repositorio.git
+ - git remote remove origin
  - git remote -v
  - git status
  - git push origin master 
