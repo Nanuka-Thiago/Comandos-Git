@@ -23,3 +23,6 @@
  - git remote -v
  - git status
  - git push origin master 
+
+#### git clone
+ - git clone https://github.com.br/usuario/repositorio.git
